@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8E54xXCiV7+PufhTYtYfDyD1+qAcoZQOsdSeZ6FFMcI=",
+  "Source": "configService",
+  "BasePath": "_content/configService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

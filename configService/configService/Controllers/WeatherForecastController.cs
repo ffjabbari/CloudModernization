@@ -25,7 +25,7 @@ namespace configService.Controllers
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+                Summary = "V0.0:Author:Fredj:Detail:" + Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
         }
